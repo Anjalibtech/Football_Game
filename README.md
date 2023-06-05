@@ -23,7 +23,7 @@
     <h1 style="background-color:white;color: #009CBA;text-align:center;"> Football </h1>
     <center>
       <a id="left" href="left.html">
-        <button>&nbspLeft&nbsp</button>
+        <button>Left</button>
       </a>
        =========
       <a id="center" href="center.html">	
