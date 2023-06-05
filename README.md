@@ -1,5 +1,4 @@
-# Football_Game
-<!DOCTYPE html>
+#Football_Game
 <html lang="en">
 
 <head>
@@ -13,14 +12,14 @@
   	background-position-y: center;
   	background-position-x: center;
     background-color:white;
-   margin-top:32%;
+   
    color: #008CBA;
     }
   </style>
   <title>Football Game</title>
 </head>
 
-<body>
+<body style="margin-top:32%;">
     <h1 style="background-color:white;color: #009CBA;text-align:center;"> Football </h1>
     <center>
       <a id="left" href="left.html">
